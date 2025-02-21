@@ -41,6 +41,8 @@ jobs:
         run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - name: Remove old artifacts
+        run: rm -rf ./dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
