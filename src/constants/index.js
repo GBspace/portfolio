@@ -61,18 +61,18 @@ export const myProjects = [
       'Built as a unique Software app with React js, Tailwind CSS, Appwrite, TypeScript, Shadcn UI, Tanstack Query. It provide features like infinite scrolling, authentication, user post, saving post and much more.',
     href: 'https://minglekari.vercel.app/sign-in',
     texture: '/textures/project/Minglekari.mp4',
-    logo: '/assets/project-logo1.png',
+    logo: '/portfolio/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
       border: '0.2px solid #36201D',
       boxShadow: '0px 0px 60px 0px #AA3C304D',
     },
-    spotlight: '/assets/spotlight1.png',
+    spotlight: '/portfolio/assets/spotlight1.png',
     tags: [
       {
         id: 1,
         name: 'React.js',
-        path: '/assets/react.svg',
+        path: '/portfolio/assets/react.svg',
       },
       {
         id: 2,
@@ -82,12 +82,12 @@ export const myProjects = [
       {
         id: 3,
         name: 'TypeScript',
-        path: '/assets/typescript.png',
+        path: '/portfolio/assets/typescript.png',
       },
       {
         id: 4,
         name: 'Appwrite',
-        path: '/assets/appwrite.png',
+        path: '/portfolio/assets/appwrite.png',
       },
       {
         id: 5,
@@ -108,7 +108,7 @@ export const myProjects = [
       'With a focus to explore how applications like slack are built, I tried to implement the feature like authentication, theme selection and updation, one to one chat, channel creation and marking favourite. User can send images as well. Project is deployed on firebase.',
     href: 'https://slack-react-7d1fb.firebaseapp.com',
     texture: '/textures/project/slack-react.mp4',
-    logo: '/assets/project-logo3.png',
+    logo: '/portfolio/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
       background:
@@ -116,12 +116,12 @@ export const myProjects = [
       border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
     },
-    spotlight: '/assets/spotlight3.png',
+    spotlight: '/portfolio/assets/spotlight3.png',
     tags: [
       {
         id: 1,
         name: 'React.js',
-        path: '/assets/react.svg',
+        path: '/portfolio/assets/react.svg',
       },
       {
         id: 2,
@@ -131,12 +131,12 @@ export const myProjects = [
       {
         id: 3,
         name: 'Redux',
-        path: '/assets/redux.png',
+        path: '/portfolio/assets/redux.png',
       },
       {
         id: 4,
         name: 'Firebase',
-        path: '/assets/firebase.png',
+        path: '/portfolio/assets/firebase.png',
       },
     ],
   },
@@ -147,18 +147,18 @@ export const myProjects = [
       "Built with React js, Appwrite, Generative AI API's, Shadcn UI with tailwind, Express backend and tanstack query.",
     // href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
     texture: '/textures/project/comic-genie.mp4',
-    logo: '/assets/project-logo4.png',
+    logo: '/portfolio/assets/project-logo4.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
       boxShadow: '0px 0px 60px 0px #2F67B64D',
     },
-    spotlight: '/assets/spotlight4.png',
+    spotlight: '/portfolio/assets/spotlight4.png',
     tags: [
       {
         id: 1,
         name: 'React.js',
-        path: '/assets/react.svg',
+        path: '/portfolio/assets/react.svg',
       },
       {
         id: 2,
@@ -168,12 +168,12 @@ export const myProjects = [
       {
         id: 3,
         name: 'Eleven Labs API',
-        path: '/assets/11labs.png',
+        path: '/portfolio/assets/11labs.png',
       },
       {
         id: 4,
         name: 'Node.js',
-        path: '/assets/nodejs.png',
+        path: '/portfolio/assets/nodejs.png',
       },
     ],
   },
@@ -201,7 +201,7 @@ export const workExperiences = [
           '• Collaborated closely with product teams to address evolving needs and deliver a user-controlled digital identity solution.',
           '• Transitioned from a ReactJS role to leading frontend efforts, showcasing adaptability and cross-platform expertise.'
     ],
-    icon: '/assets/affinidi.png',
+    icon: '/portfolio/assets/affinidi.png',
     animation: 'victory',
   },
   {
@@ -214,7 +214,7 @@ export const workExperiences = [
       '• Established and shared a Storybook component library, enabling consistent UI development across teams.',
       '• Gained hands-on experience with blockchain technologies and Tailwind CSS.'
     ],
-    icon: '/assets/requestFinance.png',
+    icon: '/portfolio/assets/requestFinance.png',
     animation: 'clapping',
   },
   {
@@ -231,7 +231,7 @@ export const workExperiences = [
       '• Planned, estimated, and distributed work on a release-to-release basis.',
       '• Created comprehensive documentation.'
     ],
-    icon: '/assets/bittitan.png',
+    icon: '/portfolio/assets/bittitan.png',
     animation: 'salute',
   },
   {
@@ -244,7 +244,7 @@ export const workExperiences = [
     '• Unit tested code using Jest and Enzyme',
     '• Minor project to deliver github contribution chart on a periodic basis.'
     ],
-    icon: '/assets/jpmc.png',
+    icon: '/portfolio/assets/jpmc.png',
     animation: 'victory',
   },
   {
@@ -257,7 +257,7 @@ export const workExperiences = [
      '• Implemented features like application monitoring and admin activity tracking, improving serviceability.',
      '• Built tools like "Retrospector" and "TrackMySprint" to streamline Agile processes.'
     ],
-    icon: '/assets/cisco.png',
+    icon: '/portfolio/assets/cisco.png',
     animation: 'clapping',
   },
   {
@@ -269,7 +269,7 @@ export const workExperiences = [
     '• As a trainee I did went through a lot of training and came up with an idea of Intelli-Vision (Auto-tagging of objects using Raspberry Pi, National Association for Blind)',
     '• It was a dream project based on raspberry pi and image processing that got selected and presented at the MBRDI innovation week.'
     ],
-    icon: '/assets/mbrdi.jpeg',
+    icon: '/portfolio/assets/mbrdi.jpeg',
     animation: 'salute',
   },
 ];

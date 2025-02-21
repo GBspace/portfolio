@@ -19,7 +19,7 @@ const About = () => {
         <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
             <div className="col-span-1 xl:row-span-3">
                 <div className="grid-container">
-                    <img src="/assets/gb.jpg" alt="gb" className="w-full sm:h-[276px] h-fit object-contain" />
+                    <img src="/portfolio/assets/gb.jpg" alt="gb" className="w-full sm:h-[276px] h-fit object-contain" />
                     <div>
                         <p className="grid-headtext">Hi, I am Garima</p>
                         <p className="grid-subtext"> With 12 years in software development, I specialize in React, TypeScript, UI architecture, and performance optimization. I’ve led teams, built scalable UI frameworks, and thrive in fast-paced, innovative environments. </p>
@@ -28,7 +28,7 @@ const About = () => {
             </div>
             <div className="col-span-1 xl:row-span-3">
                 <div className="grid-container">
-                    <img src="/assets/gj-logo.png" alt="grid-2" className="w-full sm:[w-276px] h-fit object-contain"/>
+                    <img src="/portfolio/assets/gj-logo.png" alt="grid-2" className="w-full sm:[w-276px] h-fit object-contain"/>
                      <div>
                         <p className="grid-headtext">Tech Stack</p>
                         <p className="grid-subtext">

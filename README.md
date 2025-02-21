@@ -1,7 +1,7 @@
 <!-- <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
-      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
+      <img src="https://github.com/user-attachments/portfolio/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
     </a>
   <br />
 
@@ -38,7 +38,7 @@
 
 Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project. 
 
-<!-- <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a> -->
+<!-- <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/portfolio/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a> -->
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
