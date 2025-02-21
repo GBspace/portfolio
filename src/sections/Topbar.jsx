@@ -14,7 +14,7 @@ const NavItems = ({ onClick = () => {} }) => (
   </ul>
 );
 
-const Navbar = () => {
+const Topbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => setIsOpen(!isOpen);
@@ -50,4 +50,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Topbar;

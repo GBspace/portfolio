@@ -4,13 +4,13 @@ import Contact from "./sections/Contact";
 import Experience from "./sections/Experience";
 import Footer from "./sections/Footer";
 import Hero from "./sections/Hero";
-import NavBar from "./sections/NavBar";
+import Topbar from "./sections/Topbar";
 import Projects from "./sections/Projects";
 
 const App = () => {
   return (
     <main className="max-w-7xl mx-auto relative">
-      <NavBar />
+      <Topbar />
       <Hero />
       <About />
       <Projects />
