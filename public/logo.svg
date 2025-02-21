@@ -1,0 +1,7 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="20" y="60" font-family="Arial, sans-serif" font-size="48" fill="#000000">{</text>
+  <text x="50" y="60" font-family="Arial, sans-serif" font-size="48" fill="#3178C6">G</text>
+  <text x="90" y="60" font-family="Arial, sans-serif" font-size="48" fill="#F7DF1E">J</text>
+  <text x="130" y="60" font-family="Arial, sans-serif" font-size="48" fill="#000000">}</text>
+</svg>
