@@ -15,7 +15,7 @@ const Experience = () => {
                 My Work Experience
             </h3>
             <div className="work-container">
-                <div className="work-canvas h-1/2 align-middle">
+                <div className="work-canvas sticky top-20 h-[70vh] align-middle">
                     <Canvas>
                         <ambientLight intensity={7} />
                         <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
@@ -32,9 +32,9 @@ const Experience = () => {
                         {
                             workExperiences.map(({id, name, pos, duration, title, icon, animation}) => (
                                 <div key={id} 
-                                 onClick={() => setAnimationName(animation.toLowerCase())}
-                  onPointerOver={() => setAnimationName(animation.toLowerCase())}
-                  onPointerOut={() => setAnimationName('idle')}className="work-content_container group">
+                                        onClick={() => setAnimationName(animation.toLowerCase())}
+                                        onPointerOver={() => setAnimationName(animation.toLowerCase())}
+                                        onPointerOut={() => setAnimationName('idle')}className="work-content_container group">
                                     <div className="flex flex-col h-full justify-start items-center py-2">
                                         <div className="work-content_logo">
                                             <img src={icon} alt="logo" className="w-full h-full" />
