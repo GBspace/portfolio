@@ -26,7 +26,7 @@ export const clientReviews = [
     id: 1,
     name: 'Manoj K',
     position: 'CTO @ Dropsuite | Security and SaaS',
-    img: 'assets/user.png',
+    img: '/portfolio/assets/user.png',
     review:
       'Garima excelled at demonstrating both technical and change agent skills. She had the enthusiasm and drive to imagine a Front-end framework. She can take a tech design brief and demonstrate multiple options for implementation. We had the arduous task of making a legacy single page application work in tandem with a modern react based application. She demonstrated very good skills in driving the proof of concept enabling us to decide on a slow transition process. She led the team across multiple regions to design the project. Her communication skills enable her to explain design and onboard engineers to the platform effortlessly. She is an excellent asset to have on the team, especially if you are embarking on a new project that involves complex front end technology design. She has the necessary skills to be a senior front-end engineer and drive design and lead a team of engineers.',
   },
@@ -34,7 +34,7 @@ export const clientReviews = [
     id: 2,
     name: 'Haojie Zheng',
     position: 'Staff Software Engineer at The Trade Desk',
-    img: 'assets/user.png',
+    img: '/portfolio/assets/user.png',
     review:
       "Garima has worked in my team for more than 2 years. In those 2 years, I've seen her dedication to her work and her constant pursue to learn new things. She has a very positive attitude and willingness to research on and try on new techniques in FE development. I'll have to say, Garima is one of the easiest engineer to manage, as she is very independent and knows what she needs to work on. She is also able to take feedback very well. I would highly recommend Garima for any senior FE engineer roles.",
   },
@@ -42,14 +42,14 @@ export const clientReviews = [
     id: 3,
     name: 'Vladimir Shein',
     position: 'Lead JavaScript Fullstack Developer',
-    img: 'assets/user.png',
+    img: '/portfolio/assets/user.png',
     review:
       "Worked with Garima in JPM, she was in minority. Banks codebase is often challenging, same as environment, Garima was tolerant to this challenges (remote desktop, restricted accesses, access tokens for each action, extra level of legacy code), she was productive. She was part of those minority of people, who seen real problems of arcitecture in UI apps, because know modern trends and problems of solutions of different ages. Fast learner. Extremely polite and nice person. Good friend. I would love to work with her again sometime in the future. I am sure she will be a great value add to any organization. Her current team is lucky to have her."},
   {
     id: 4,
     name: 'Sahithi Chittineni',
     position: 'Product Manager | ISB | Cisco Systems | BITS Pilani Product Manager | ISB | Cisco Systems | BITS Pilani',
-    img: 'assets/user.png',
+    img: '/portfolio/assets/user.png',
     review: "I could not have asked for a more dynamic mentor than Garima in the early years of my career. Brainstorming with Garima has always helped me get more clarity into my work. Her enthusiasm to work on challenging problems has motivated our team to take up exciting projects. What sets her apart from other mentors is the effort she puts in to ensure the growth of her team members. Looking forward to working with her sometime again in the future."},
 ];
 
@@ -60,7 +60,7 @@ export const myProjects = [
     subdesc:
       'Built as a unique Software app with React js, Tailwind CSS, Appwrite, TypeScript, Shadcn UI, Tanstack Query. It provide features like infinite scrolling, authentication, user post, saving post and much more.',
     href: 'https://minglekari.vercel.app/sign-in',
-    texture: '/textures/project/Minglekari.mp4',
+    texture: '/portfolio/textures/project/Minglekari.mp4',
     logo: '/portfolio/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -77,7 +77,7 @@ export const myProjects = [
       {
         id: 2,
         name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        path: '/portfolio/assets/tailwindcss.png',
       },
       {
         id: 3,
@@ -92,12 +92,12 @@ export const myProjects = [
       {
         id: 5,
         name: 'Shadcn UI',
-        path: 'assets/shadcn-ui.png'
+        path: '/portfolio/assets/shadcn-ui.png'
       },
       {
         id:6,
         name: 'Tanstack Query',
-        path: 'assets/tanstack-query.png'
+        path: '/portfolio/assets/tanstack-query.png'
       }
     ],
   },
@@ -107,7 +107,7 @@ export const myProjects = [
     subdesc:
       'With a focus to explore how applications like slack are built, I tried to implement the feature like authentication, theme selection and updation, one to one chat, channel creation and marking favourite. User can send images as well. Project is deployed on firebase.',
     href: 'https://slack-react-7d1fb.firebaseapp.com',
-    texture: '/textures/project/slack-react.mp4',
+    texture: '/portfolio/textures/project/slack-react.mp4',
     logo: '/portfolio/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
@@ -126,7 +126,7 @@ export const myProjects = [
       {
         id: 2,
         name: 'Semantic UI',
-        path: 'assets/semantic-ui.png',
+        path: '/portfolio/assets/semantic-ui.png',
       },
       {
         id: 3,
@@ -146,7 +146,7 @@ export const myProjects = [
     subdesc:
       "Built with React js, Appwrite, Generative AI API's, Shadcn UI with tailwind, Express backend and tanstack query.",
     // href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
-    texture: '/textures/project/comic-genie.mp4',
+    texture: '/portfolio/textures/project/comic-genie.mp4',
     logo: '/portfolio/assets/project-logo4.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
@@ -163,7 +163,7 @@ export const myProjects = [
       {
         id: 2,
         name: 'OpenAI API',
-        path: 'assets/openai.png',
+        path: '/portfolio/assets/openai.png',
       },
       {
         id: 3,

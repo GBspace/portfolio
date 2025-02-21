@@ -10,10 +10,10 @@ const Developer = ({ animationName = 'idle', ...props }) => {
   const clone = React.useMemo(() => SkeletonUtils.clone(scene), [scene]);
   const { nodes, materials } = useGraph(clone);
 
-  const { animations: idleAnimation } = useFBX('/models/animations/idle.fbx');
-  const { animations: saluteAnimation } = useFBX('/models/animations/salute.fbx');
-  const { animations: clappingAnimation } = useFBX('/models/animations/clapping.fbx');
-  const { animations: victoryAnimation } = useFBX('/models/animations/victory.fbx');
+  const { animations: idleAnimation } = useFBX('/portfolio/models/animations/idle.fbx');
+  const { animations: saluteAnimation } = useFBX('/portfolio/models/animations/salute.fbx');
+  const { animations: clappingAnimation } = useFBX('/portfolio/models/animations/clapping.fbx');
+  const { animations: victoryAnimation } = useFBX('/portfolio/models/animations/victory.fbx');
 
   idleAnimation[0].name = 'idle';
   saluteAnimation[0].name = 'salute';
