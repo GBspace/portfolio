@@ -59,7 +59,7 @@ export const myProjects = [
     desc: 'Minglekari is a unique social media app which is fully created and deployed for users to post and share their updates.',
     subdesc:
       'Built as a unique Software app with React js, Tailwind CSS, Appwrite, TypeScript, Shadcn UI, Tanstack Query. It provide features like infinite scrolling, authentication, user post, saving post and much more.',
-    href: 'https://minglekari.vercel.app/sign-in',
+    href: 'https://minglekari.vercel.app',
     texture: '/portfolio/textures/project/Minglekari.mp4',
     logo: '/portfolio/assets/project-logo1.png',
     logoStyle: {
